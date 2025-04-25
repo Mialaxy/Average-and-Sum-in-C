@@ -1,0 +1,1 @@
+# Average-and-Sum-in-C
